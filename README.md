@@ -6,13 +6,13 @@ Three Users:
 - Teacher
 - Student
 
-##Login Portal:
+## Login Portal:
 
 
-##Admin Portal:
+## Admin Portal:
 
 
-##Teacher Portal:
+## Teacher Portal:
 
 
-##Student Portal:
+## Student Portal:
