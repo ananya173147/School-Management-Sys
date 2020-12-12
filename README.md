@@ -1,17 +1,18 @@
 # School Management System
+A JavaFX project using SQLite for database
 
 Three Users:
-1. Admin
-2. Teacher
-3. Student
+- Admin
+- Teacher
+- Student
 
-Login Portal:
-
-
-Admin Portal:
+##Login Portal:
 
 
-Teacher Portal:
+##Admin Portal:
 
 
-Student Portal:
+##Teacher Portal:
+
+
+##Student Portal:
